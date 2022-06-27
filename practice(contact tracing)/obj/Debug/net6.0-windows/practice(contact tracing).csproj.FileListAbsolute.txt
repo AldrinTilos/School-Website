@@ -1,0 +1,20 @@
+C:\Users\tilos\source\repos\practice(contact tracing)\practice(contact tracing)\bin\Debug\net6.0-windows\practice(contact tracing).exe
+C:\Users\tilos\source\repos\practice(contact tracing)\practice(contact tracing)\bin\Debug\net6.0-windows\practice(contact tracing).deps.json
+C:\Users\tilos\source\repos\practice(contact tracing)\practice(contact tracing)\bin\Debug\net6.0-windows\practice(contact tracing).runtimeconfig.json
+C:\Users\tilos\source\repos\practice(contact tracing)\practice(contact tracing)\bin\Debug\net6.0-windows\practice(contact tracing).dll
+C:\Users\tilos\source\repos\practice(contact tracing)\practice(contact tracing)\bin\Debug\net6.0-windows\practice(contact tracing).pdb
+C:\Users\tilos\source\repos\practice(contact tracing)\practice(contact tracing)\obj\Debug\net6.0-windows\practice(contact tracing).csproj.AssemblyReference.cache
+C:\Users\tilos\source\repos\practice(contact tracing)\practice(contact tracing)\obj\Debug\net6.0-windows\practice_contact_tracing_.Form1.resources
+C:\Users\tilos\source\repos\practice(contact tracing)\practice(contact tracing)\obj\Debug\net6.0-windows\practice_contact_tracing_.Form2.resources
+C:\Users\tilos\source\repos\practice(contact tracing)\practice(contact tracing)\obj\Debug\net6.0-windows\practice_contact_tracing_.Form3.resources
+C:\Users\tilos\source\repos\practice(contact tracing)\practice(contact tracing)\obj\Debug\net6.0-windows\practice_contact_tracing_.Form4.resources
+C:\Users\tilos\source\repos\practice(contact tracing)\practice(contact tracing)\obj\Debug\net6.0-windows\practice(contact tracing).csproj.GenerateResource.cache
+C:\Users\tilos\source\repos\practice(contact tracing)\practice(contact tracing)\obj\Debug\net6.0-windows\practice(contact tracing).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilos\source\repos\practice(contact tracing)\practice(contact tracing)\obj\Debug\net6.0-windows\practice(contact tracing).AssemblyInfoInputs.cache
+C:\Users\tilos\source\repos\practice(contact tracing)\practice(contact tracing)\obj\Debug\net6.0-windows\practice(contact tracing).AssemblyInfo.cs
+C:\Users\tilos\source\repos\practice(contact tracing)\practice(contact tracing)\obj\Debug\net6.0-windows\practice(contact tracing).csproj.CoreCompileInputs.cache
+C:\Users\tilos\source\repos\practice(contact tracing)\practice(contact tracing)\obj\Debug\net6.0-windows\practice(contact tracing).dll
+C:\Users\tilos\source\repos\practice(contact tracing)\practice(contact tracing)\obj\Debug\net6.0-windows\refint\practice(contact tracing).dll
+C:\Users\tilos\source\repos\practice(contact tracing)\practice(contact tracing)\obj\Debug\net6.0-windows\practice(contact tracing).pdb
+C:\Users\tilos\source\repos\practice(contact tracing)\practice(contact tracing)\obj\Debug\net6.0-windows\practice(contact tracing).genruntimeconfig.cache
+C:\Users\tilos\source\repos\practice(contact tracing)\practice(contact tracing)\obj\Debug\net6.0-windows\ref\practice(contact tracing).dll
